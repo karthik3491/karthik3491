@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karthik3491
+- 👋 Hi, I’m Karthik Narayanan
 - 👀 I’m interested in ... Cloud Devops
 - 🌱 I’m currently learning ... Kubernetes
 - 📫 How to reach me ... karthikitsm91@gmail.com
